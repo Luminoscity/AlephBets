@@ -1,1 +1,3 @@
-#[ModKit Wiki](../../wiki)
+AlephBets, regular module for KTaNE
+ 
+By LuminoscityTim
